@@ -1,0 +1,11 @@
+(mod (solution)
+  (if (= solution 42)
+    (list
+      (51
+        (q . 0x)  ; dummy puzzle hash
+        1         ; 1 mojo
+      )
+    )
+    ()
+  )
+)
